@@ -1,20 +1,20 @@
 # py-games
-An assortment of simple games, created with vanilla Python3 (tkinter)
+##An assortment of simple games, created with vanilla Python3 (tkinter)
 
-## pyBounce
+### pyBounce
 Flappy Bird analogue with an additional mechanic
 
-## pyConvex
+### pyConvex
 Not even a game, actually. But feel free to try this convex shell simulator!
 
-## pyDuel
+### pyDuel
 Pong-type game
 
 ## pyHunger
 Singleplayer agar.io clone
 
-## pyPython
+### pyPython
 A timeless classic about an apple-eating snake
 
-## pyRoom
+### pyRoom
 Primitive DooM-style 3D engine. Far from finished at this time
