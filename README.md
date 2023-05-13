@@ -1,5 +1,5 @@
 # py-games
-##An assortment of simple games, created with vanilla Python3 (tkinter)
+## An assortment of simple games, created with vanilla Python3 (tkinter)
 
 ### pyBounce
 Flappy Bird analogue with an additional mechanic
