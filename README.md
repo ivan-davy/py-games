@@ -10,7 +10,7 @@ Not even a game, actually. But feel free to try this convex shell simulator!
 ### pyDuel
 Pong-type game
 
-## pyHunger
+### pyHunger
 Singleplayer agar.io clone
 
 ### pyPython
